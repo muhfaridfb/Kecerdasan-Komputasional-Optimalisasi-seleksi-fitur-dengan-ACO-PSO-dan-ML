@@ -1,4 +1,4 @@
-# 📌 Projek Data Mining: Optimalisasi Seleksi Fitur pada Dataset Penyakit Jantung Menggunakan ACO-PSO dan Machine Learning
+# 📌 Projek Computer Intelligience: Optimalisasi Seleksi Fitur pada Dataset Penyakit Jantung Menggunakan ACO-PSO dan Machine Learning
 
 Projek ini bertujuan untuk melakukan **seleksi fitur optimal** pada dataset penyakit jantung dengan menerapkan metode **hybrid Ant Colony Optimization (ACO)** dan **Particle Swarm Optimization (PSO)**. Metode ini dikombinasikan dengan beberapa algoritma machine learning untuk mendapatkan model klasifikasi terbaik.  
 
